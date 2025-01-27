@@ -1,7 +1,7 @@
-# Stock-Market-Prediction
+# Stock-Market-Prediction 📊
 This repository contains the implementation of a stock market prediction model using machine learning techniques. The project is focused on predicting stock prices based on historical data to assist in financial decision-making.
 
-#Table of Contents
+# Table of Contents 🔍
 
 1. Overview
 
@@ -21,12 +21,12 @@ This repository contains the implementation of a stock market prediction model u
 
 9. License
 
-#Overview
+# Overview 🌐
 
 Stock market prediction is a challenging task that involves analyzing historical stock price data to forecast future trends. This project employs machine learning algorithms to predict stock prices, providing insights for investors and traders.
 The main file in this repository, DT_project.ipynb, is a Jupyter Notebook that demonstrates the end-to-end process of building and evaluating the prediction model.
 
-#Features
+# Features🔧
 
 1. Preprocessing of historical stock data
 
@@ -36,7 +36,7 @@ The main file in this repository, DT_project.ipynb, is a Jupyter Notebook that d
 
 4. Model evaluation metrics
 
-#Dataset
+# Dataset 📈
 
 The dataset used for this project is sourced from publicly available stock market data (e.g., Yahoo Finance or Kaggle). Ensure you have the dataset in the required format before running the notebook. The dataset should include features like:
 
@@ -52,7 +52,7 @@ The dataset used for this project is sourced from publicly available stock marke
 
 6.Volume
 
-#Model and Techniques
+# Model and Techniques 🎯
 
 This project primarily uses a Decision Tree-based algorithm for stock price prediction. Key steps include:
 Data preprocessing (handling missing values, feature scaling, etc.)
@@ -60,7 +60,7 @@ Splitting the dataset into training and testing sets
 Training a Decision Tree model
 Evaluating the model’s performance using metrics like Mean Squared Error (MSE)
 
-#Installation
+# Installation🔄
 
 To run this project locally, follow these steps:
 
@@ -70,18 +70,18 @@ To run this project locally, follow these steps:
 4. Launch Jupyter Notebook: jupyter notebook
 Open and run the DT_project.ipynb notebook.
 
-#Usage
+# Usage🔢
 
 Prepare your dataset with historical stock prices.
 Load the dataset in the notebook.
 Follow the steps outlined in DT_project.ipynb to preprocess the data, train the model, and make predictions.
 Evaluate the model’s performance and visualize the results.
 
-#Results
+# Results 🌟
 
 The notebook includes visualizations and evaluation metrics that demonstrate the model’s performance. The results can help identify trends and make informed predictions about stock prices.
 
-#Contributing
+# Contributing🙏
 
 Contributions are welcome! If you’d like to enhance this project, please:
 
@@ -90,6 +90,6 @@ Contributions are welcome! If you’d like to enhance this project, please:
 3. Commit your changes and push to your forked repository.
 4. Open a pull request with a detailed description of your changes.
 
-#License
+# License 🔒
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software as per the terms of the license.
